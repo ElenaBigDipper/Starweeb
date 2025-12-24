@@ -1,0 +1,7 @@
+{
+  "name": "Starweeb - Retro Social",
+  "description": "A feature-rich, MySpace-inspired social platform with bulletins, forums, blogs, art galleries, and AI-powered secret admirer notes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
